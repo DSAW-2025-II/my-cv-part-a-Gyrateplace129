@@ -1,1 +1,1 @@
-# Link del repositorio desplegado https://github.com/DSAW-2025-II/my-cv-part-a-Gyrateplace129/commit/290c47d504110dcae9bc3a44ec1ecf49bf725151
+# Link del repositorio desplegado https://dsaw-2025-ii.github.io/my-cv-part-a-Gyrateplace129/
